@@ -1,0 +1,20 @@
+
+body{
+    background-color: pink;
+}
+
+h1{
+    text-align:center;
+}
+
+p{
+    background-color: brown;
+}
+
+.city{
+    background-color: aqua;
+}
+
+#css{
+    background-color: antiquewhite;
+}
